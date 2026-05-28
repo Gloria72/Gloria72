@@ -100,5 +100,4 @@ I'm passionate about leveraging data and technology to create impactful solution
 
 If you have an interesting project or idea, feel free to reach out to me at [gloriacheng80@gmail.com](mailto:gloriacheng80@gmail.com). Let's build something amazing together!
 
-## ☕ Fun Fact
-I map neurons for fun and believe data visualization should feel like art.
+
