@@ -32,56 +32,55 @@
 
 **Languages:**
 <p align="left">
-  <code>Python</code>
-  <code>SQL</code>
-  <code>JavaScript</code>
-  <code>TypeScript</code>
-  <code>C</code>
-  <code>C++</code>
-  <code>MATLAB</code>
-  <code>Java</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
 **ML / CV:**
 <p align="left">
-  <code>PyTorch</code>
-  <code>TensorFlow</code>
-  <code>OpenCV</code>
-  <code>scikit-learn</code>
-  <code>XGBoost</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  XGBoost
 </p>
 
 **Data Engineering:**
 <p align="left">
-  <code>AWS</code>
-  <code>Spark</code>
-  <code>Airflow</code>
-  <code>Docker</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
 **Visualization / Web:**
 <p align="left">
-  <code>D3.js</code>
-  <code>Three.js</code>
-  <code>Flask</code>
-  <code>FastAPI</code>
-  <code>Tableau</code>
-  <code>Power BI</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://api.iconify.design/logos:tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" alt="Power BI" width="40" height="40"/>
 </p>
 
 **DevOps:**
 <p align="left">
-  <code>GitHub</code>
-  <code>GitLab</code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
 </p>
 
 ---
 
 ## ✨ GitHub Stats & Activity
 
-- Profile: [Gloria72](https://github.com/Gloria72)
-- Repositories: [public projects](https://github.com/Gloria72?tab=repositories)
-- Contributions: [activity overview](https://github.com/Gloria72?tab=overview)
+[![Gloria's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Gloria72&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gloria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gloria72&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
