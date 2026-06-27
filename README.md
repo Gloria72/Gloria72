@@ -1,103 +1,60 @@
+# Hi, I'm Yu Cheng
 
+MS Computer Engineering at NYU, BS Data Science at Duke. I build practical AI
+systems with a growing focus on LLM infrastructure, inference performance,
+observability, and reliable developer tooling.
 
-## 🧩 About Me
+I like work that turns messy model-serving behavior into something measurable:
+benchmarks, dashboards, small correctness tests, better docs, and tools that make
+systems easier to operate.
 
-🎓 MS Computer Engineering @ NYU · BS Data Science @ Duke
+## Current Focus
 
-🔬 Researcher in Neuroinformatics and Medical Imaging
+- LLM serving infrastructure: SGLang, vLLM-style serving, llm-d, routing, and
+  KV-cache behavior.
+- Performance tooling: inference benchmarks, kernel correctness checks, and
+  lightweight observability for model-serving stacks.
+- Applied AI products: local-first assistants, fitness/health workflows, and
+  agentic task interfaces.
 
-🚀 AI/ML engineer who loves building end‑to‑end data pipelines on the cloud
+## Open Source Work
 
-🌍 I thrive at the intersection of algorithms, visualization, and impact
+- [SGLang PR #29205](https://github.com/sgl-project/sglang/pull/29205):
+  parser fix and unit test for flat `max_dynamic_patch` image metadata in Jinja
+  template content.
+- [llm-d PR #1942](https://github.com/llm-d/llm-d/pull/1942): contributor guide
+  for coding agents working in an AI infrastructure repository.
 
-🌱 也欢迎用中文来交流！
+## Selected Projects
 
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/yu-cheng-53515a236/)
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [fitsnap-coach](https://github.com/Gloria72/fitsnap-coach) | Local-first AI fitness coach with meal logging, form checks, recovery scoring, and trend charts. | JavaScript, MoveNet |
+| [sglang-observability-router](https://github.com/Gloria72/sglang-observability-router) | OpenAI-compatible routing proxy and benchmark harness for SGLang-style serving. | Python |
+| [flashinfer-kernel-bench](https://github.com/Gloria72/flashinfer-kernel-bench) | Correctness-first microbenchmarks for LLM attention and sampling kernels. | Python |
+| [rust-candle-gateway](https://github.com/Gloria72/rust-candle-gateway) | Dependency-light Rust inference gateway with a Candle-ready engine boundary. | Rust |
+| [bay-area-rental-skill](https://github.com/Gloria72/bay-area-rental-skill) | Bilingual AI assistant skill for apartment screening and unit-level rental decisions. | Python |
 
-## 💡 My Focus Projects
+## How I Work
 
-*   **ConVis** – Web‑scale connectome visualization (Three.js, WebGL, Docker, HPC)
-*   **MedAI** – Prostate MRI segmentation with SAM2 + 3D‑UNet + ConvLSTM (Dice 0.91)
-*   **LLM Recommender** – ONNX‑optimized skincare engine (38% DAU ↑)
+- Keep changes small enough to review.
+- Prefer tests or concrete verification over broad claims.
+- Document setup steps when they are part of the user experience.
+- Leave codebases easier for the next contributor to understand.
 
-## 🔨 Tech & Tools
+## Background
 
-### Domain
-*   Machine Learning / Computer Vision
-*   Data Engineering
-*   Visualization / Web Development
-*   DevOps
+- Computer engineering, data science, medical imaging, visualization, and cloud
+  data pipelines.
+- Comfortable with Python, JavaScript/TypeScript, Rust, Java, SQL, Docker,
+  PyTorch, FastAPI, Three.js, and data/ML tooling.
+- Bilingual: English and Chinese.
 
-### Stack
+## Contact
 
-**Languages:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
-
-**ML / CV:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-
-</p>
-
-**Data Engineering:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
-
-**Visualization / Web:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos:tableau-icon.svg" alt="Tableau" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" alt="Power BI" width="40" height="40"/>
-</p>
-
-**DevOps:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/yu-cheng-53515a236/)
+- [Email](mailto:gloriacheng80@gmail.com)
 
 ---
 
-## ✨ GitHub Stats & Activity
-
-[![Gloria's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Gloria72&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Gloria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gloria72&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎯 Currently Learning
-*   Go
-*   LangChain
-*   Advanced Graph Neural Networks
-
-## 🤝 Open for Collaboration
-
-I'm passionate about leveraging data and technology to create impactful solutions. I'm open to collaborating on projects related to:
-
-*   🧠 Neuroinformatics and Medical Imaging
-*   🤖 AI/ML applications, especially in computer vision and data pipelines
-*   📊 Data Visualization, turning complex data into insightful art
-*   💡 Innovative open-source initiatives
-
-If you have an interesting project or idea, feel free to reach out to me at [gloriacheng80@gmail.com](mailto:gloriacheng80@gmail.com). Let's build something amazing together!
-
-
+[![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Gloria72&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
