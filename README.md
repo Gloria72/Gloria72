@@ -33,17 +33,17 @@ I like work that turns messy model-serving behavior into something measurable: b
 - Keep setup steps explicit because developer experience is part of the product.
 - Write docs and runbooks when they make a system easier for the next person to operate.
 
-## Background
+## TECHNICAL SKILLS
 
-- Computer engineering, data science, medical imaging, visualization, and cloud data pipelines.
-- Comfortable with Python, JavaScript/TypeScript, Rust, C++/CUDA, SQL, Docker, PyTorch, FastAPI, Three.js, and ML/data tooling.
-- Bilingual: English and Chinese.
+**ML Systems & Inference:** Python, C++/CUDA, Triton Inference Server, vLLM, SGLang, TensorRT, ONNX Runtime, Profiling.
+
+**Optimization & Architectures:** Instruction Tuning, PEFT, FSDP, DPO/RLHF, LangGraph, LangChain, LLM-as-Judge Evaluation, Guardrails. KV-Cache, Continuous/In-flight Batching, Quantization (AWQ, INT8, QLoRA), CUDA Streams, Nsight Systems/Compute.
+
+**Backend & Data Integration:** PyTorch, PySpark, Airflow, FastAPI, gRPC, PostgreSQL, Snowflake, Docker, Kubernetes, AWS.
+
+**DevOps & Observability:** OpenTelemetry, CI/CD (GitHub Actions), Prometheus/Grafana style metrics, structured logging, JUnit 5.
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/yu-cheng-53515a236/)
 - [Email](mailto:gloriacheng80@gmail.com)
-
----
-
-[![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Gloria72&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
