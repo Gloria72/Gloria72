@@ -23,8 +23,8 @@ I like work that turns messy model-serving behavior into something measurable: b
 
 ## Open Source
 
-- [SGLang PR #29205](https://github.com/sgl-project/sglang/pull/29205): parser fix and unit test for flat `max_dynamic_patch` image metadata in Jinja template content.
-- [llm-d PR #1942](https://github.com/llm-d/llm-d/pull/1942): contributor guide for coding agents working inside an AI infrastructure repository.
+- [vLLM PR #64143](https://github.com/vllm-project/vllm/pull/64143) **(open, under review)**: fix SSE payload extraction across completion, chat, and audio benchmark clients, with HTTP regression tests and real-model CPU server validation.
+- [LiteLLM PR #36018](https://github.com/BerriAI/litellm/pull/36018) **(open, under review)**: use the configured API docs base URL in MCP connection snippets, with URL-precedence and rendered-component tests.
 
 ## How I Work
 
